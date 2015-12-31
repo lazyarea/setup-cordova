@@ -14,6 +14,12 @@
 #### Cordovaのインストール
     $ npm install -g cordova
 
+#### karmaのインストール
+    $ npm install -g karma karma-jasmine karma-chrome-launcher
+
+#### bowerのインストール
+    $ npm install -g bower
+
 #### Create the App
     $ cordova create hello com.example.hello HelloWorld
     create はサブコマンド名
