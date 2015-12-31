@@ -32,6 +32,11 @@
     $ cordova platform add android
     $ cordova platforms ls
 
+#### Jasmine と Karma をインストール
+    $ npm install -g karma-cli
+    $ npm install --save-dev karma-jasmine
+    $ npm install --save-dev karma-chrome-launcher
+
 #### Build the App of Android
     $ cordova build android
 
